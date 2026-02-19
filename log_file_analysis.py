@@ -1,0 +1,1 @@
+print ("Let's just pretend that a script that analyzes log files for potential security incidents is running. I apologize, but our skills in scripting are not that developed yet.")
